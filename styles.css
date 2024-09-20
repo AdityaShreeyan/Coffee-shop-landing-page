@@ -67,11 +67,13 @@ nav ul li a {
 .about h2 {
     text-align: left;
     margin-bottom: 20px;
+    color: black;
 }
 
 .about p {
     text-align: left;
     margin-bottom: 20px;
+    color: black;
 }
 
 .about-images {
@@ -135,6 +137,7 @@ nav ul li a {
     text-align: left;
     margin-bottom: 20px;
     margin-left: 50px; 
+    color: black;
 }
 
 .location-content {
@@ -151,7 +154,8 @@ nav ul li a {
 
 .location .hours {
     width: 45%;
-    margin-right: 45px
+    margin-right: 45px;
+    color: black;
 }
 
 .location iframe {
